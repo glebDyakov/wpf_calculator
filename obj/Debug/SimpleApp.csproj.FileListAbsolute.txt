@@ -1,0 +1,15 @@
+C:\WPF_PROJECTS\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\WPF_PROJECTS\SimpleApp\bin\Debug\SimpleApp.exe
+C:\WPF_PROJECTS\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.csprojAssemblyReference.cache
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\MainWindow.g.cs
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\App.g.cs
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.cache
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.lref
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\MainWindow.baml
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.g.resources
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.exe
+C:\WPF_PROJECTS\SimpleApp\obj\Debug\SimpleApp.pdb
